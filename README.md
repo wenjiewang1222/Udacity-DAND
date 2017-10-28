@@ -1,2 +1,3 @@
-# [Udacity Data Analyst Nanodegree] (https://cn.udacity.com/dand "悬停显示")
+# Udacity Data Analyst Nanodegree
+[wo de jiaoshi ](https://cn.udacity.com/dand)
 Projects for my Udacity Data Analyst Nanodegree
